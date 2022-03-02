@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JakubCiesko
 - 👀 I’m interested in Natural language processing, AI
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning Python, C++, JavaScript, CSS, HTML
